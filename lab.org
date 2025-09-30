@@ -1,13 +1,14 @@
 #+title: The Title
-#+author: Andrei Chicu
+#+author: Amazing Dude
 #+OPTIONS: title:nil toc:nil
 #+LATEX_CLASS: article
 #+LATEX_CLASS_OPTIONS: [a4paper,12pt]
 #+LATEX_HEADER: \input{lab_pre}
-#+LATEX_HEADER: \group{FAF--233}
-#+LATEX_HEADER: \prof{The Prof}
+#+LATEX_HEADER: \labsubject{The Subject}
+#+LATEX_HEADER: \group{XDD-123}
+#+LATEX_HEADER: \prof{Nujabes}
 #+LATEX_HEADER: \profdep{sea, fcim utm}
-#+LATEX_HEADER: \labno{5}
+#+LATEX_HEADER: \labno{1}
 #+INCLUDE: "lab_titlepage.tex" export latex
 #+PROPERTY: HEADER-ARGS+ :eval no-export
 * Introduction
